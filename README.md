@@ -1,3 +1,6 @@
+## Estructurando nuestro proyecto
+Pendiente
+
 ## Formato de Código
 ### Introducción
 Este documento establecer una guia para formateo de código que se debe seguir en
