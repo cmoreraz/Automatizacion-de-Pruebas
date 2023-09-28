@@ -4,6 +4,16 @@ Este documento establecer una guia para formateo de código que se debe seguir e
 todos los proyectos de automatización en nuestra organización. El formateo de
 código consistente en mejorar la legibilidad y mantenibilidad del código, facilitando
 la colaboración y reduciendo errores.
+
+### Problema
+Cuando algo se repite una otra vez, es una señal de que tenemos una idea que no
+acabamos de representar correctamente en el codigo, es por ello, que la duplicacion
+es un gran problema ya que aumenta el tamaño del codigo y requirira una
+modificacion bastante extensa cuando la logica de negocio cambia y no permite que
+nuestras automatizaciones queden bien diseñadas, generando un esfuerzo
+adicional, riesgos y una complegidad innecesaria.
+
+
 ### Objetivos
 + Establecer una guía de estilo uniforme para el formateo de código.
 + Mejorar la legibilidad y comprensión del código.
