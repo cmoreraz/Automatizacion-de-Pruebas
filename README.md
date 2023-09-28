@@ -3,7 +3,12 @@
 + Agrupa las importaciones al inicio del archivo.
 + Divide el código en funciones y métodos coherentes y reutilizables.
 
-### Herramientas de Ayuda
+#### Formateo de Expresiones
++ Agrega espacios alrededor de operadores: x = 5 + y.
++ Usa paréntesis para mejorar la claridad en las expresiones complejas.
+
+
+### Formatea tu codigo
 Para asegurarte de que el código siga este estándar, debemos utilizar
 fmt-maven-plugin que consume la librería de estándar de Google, para ello debemos
 agregar el siguiente plugin en el archivo pom.xml de nuestro proyecto.
