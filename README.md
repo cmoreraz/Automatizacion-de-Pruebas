@@ -44,9 +44,8 @@ nombreVariable, calcularTotal.
 
 
 ### Formatea tu codigo
-Para asegurarte de que el código siga este estándar, debemos utilizar
-fmt-maven-plugin que consume la librería de estándar de Google, para ello debemos
-agregar el siguiente plugin en el archivo pom.xml de nuestro proyecto.
+Para asegurarte de que el código siga este estándar, podemos utilizar
+fmt-maven-plugin, que consume la librería de estándar de Google y solo basta con adicionar el siguiente fragmento de codigo en la seccion de plugins que se encuentra en el archivo pom.xml de nuestro proyecto.
 ```
 <plugin>
 <groupId>com.spotify.fmt</groupId>
