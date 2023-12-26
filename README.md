@@ -6,23 +6,11 @@
 Para comprender cuán profundo es este potencial, me gustaría comenzar describiendo los desafíos que existen en la forma en que normalmente probamos el software en el mundo actual. Parte de lo que describo en las siguientes secciones se toma desde un punto de vista ágil. Si no tiene la suerte de trabajar de esta manera, creo que debería ser fácil adaptar estas ideas a sus propias circunstancias para ver si se aplican.
 
 ### ¿Qué hay de malo en la forma en que probamos el software?
-El mundo de las pruebas de software se encuentra en un estado de transición. La forma en que históricamente hemos
-probado el software ha demostrado ser ineficiente e ineficaz. Es ineficiente porque muchas de las prácticas que seguimos
-no escalan a medida que el software en el que estamos trabajando se vuelve más grande y complejo y también porque
-hay una gran cantidad de desperdicio en nuestros procesos y flujos de trabajo debido al retrabajo causado por la
-detección tardía de defectos. Es ineficaz porque, a pesar de nuestros mejores esfuerzos, los equipos de desarrollo de
-software entregan regularmente software de baja calidad y que contiene muchos defectos.
+El mundo de las pruebas de software se encuentra en un estado de transición. La forma en que históricamente hemos probado el software ha demostrado ser ineficiente e ineficaz. Es ineficiente porque muchas de las prácticas que seguimos no escalan a medida que el software en el que estamos trabajando se vuelve más grande y complejo y también porque hay una gran cantidad de desperdicio en nuestros procesos y flujos de trabajo debido al retrabajo causado por la detección tardía de defectos. Es ineficaz porque, a pesar de nuestros mejores esfuerzos, los equipos de desarrollo de software entregan regularmente software de baja calidad y que contiene muchos defectos.
 
-Hace unos once años, un grupo de personas se reunió y creó el Manifiesto para el desarrollo de software ágil. Habían
-pasado los años siguientes probando nuevas ideas sobre cómo los equipos pueden trabajar juntos para producir software
-de mayor calidad de una manera más predecible. En los primeros días del movimiento Agile, gran parte de la escritura
-se centraba en desarrolladores de software o en roles más centrados en la gestión. Se escribió muy poco sobre cómo
-alguien que proviene de una experiencia en pruebas más tradicional debería participar en el proceso de desarrollo.
+Hace unos once años, un grupo de personas se reunió y creó el Manifiesto para el desarrollo de software ágil. Habían pasado los años siguientes probando nuevas ideas sobre cómo los equipos pueden trabajar juntos para producir software de mayor calidad de una manera más predecible. En los primeros días del movimiento Agile, gran parte de la escritura se centraba en desarrolladores de software o en roles más centrados en la gestión. Se escribió muy poco sobre cómo alguien que proviene de una experiencia en pruebas más tradicional debería participar en el proceso de desarrollo.
 
-Dado que se escribió tan poco sobre el papel de los probadores de software, muchos equipos que trabajaban de forma
-ágil asumieron que no había necesidad de un probador en el equipo. Otros trajeron a sus evaluadores pero les hicieron
-continuar trabajando utilizando su enfoque tradicional para probar software. Ambos enfoques condujeron a muchos
-problemas que discutiremos en este capítulo.
+Dado que se escribió tan poco sobre el papel de los probadores de software, muchos equipos que trabajaban de forma ágil asumieron que no había necesidad de un probador en el equipo. Otros trajeron a sus evaluadores pero les hicieron continuar trabajando utilizando su enfoque tradicional para probar software. Ambos enfoques condujeron a muchos problemas que discutiremos en este capítulo.
 
 ## Estructurando nuestro proyecto
 Pendiente
