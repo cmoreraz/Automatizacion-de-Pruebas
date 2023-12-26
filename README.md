@@ -12,6 +12,21 @@ Hace unos once años, un grupo de personas se reunió y creó el Manifiesto para
 
 Dado que se escribió tan poco sobre el papel de los probadores de software, muchos equipos que trabajaban de forma ágil asumieron que no había necesidad de un probador en el equipo. Otros trajeron a sus evaluadores pero les hicieron continuar trabajando utilizando su enfoque tradicional para probar software. Ambos enfoques condujeron a muchos problemas que discutiremos en este capítulo.
 
+### Diferencias y duplicación
+A alto nivel, hay tres resultados principales que surgen de las iniciativas de desarrollo de software.
+
+Cada uno de ellos se relaciona directamente con una de las fases tradicionales de las metodologías de desarrollo tradicionales.
+
+Ellos son:
+
++ Los Analistas y Product Owners trabajan para definir los requisitos del sistema a construir.
+
+    + Si el equipo es ágil, los requisitos se dividen en entregables mucho más pequeños llamados historias o características. 
+    + Estas historias deben ir acompañadas de criterios de aceptación. 
+    + Los desarrolladores toman los requisitos proporcionados y construyen el código que se compila en el software solicitado.
+
++ Los testers toman los requisitos y crean casos de prueba y planes de prueba. A partir de ahí, crean conjuntos de pruebas automatizadas que validan que los requisitos se implementen correctamente en el código.
+
 ## Estructurando nuestro proyecto
 Pendiente
 
